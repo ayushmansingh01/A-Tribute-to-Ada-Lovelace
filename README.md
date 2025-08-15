@@ -3,7 +3,7 @@
 A simple *tribute page* for *Ada Lovelace*, the world’s first computer programmer.  
 Built with *HTML* and *CSS*, this page showcases her life, achievements, and legacy.
 
-*Live Demo:* [https://adalovelacetribute01.netlify.app/](https://adalovelacetribute01.netlify.app/)
+*Live Demo:* [https://tributetoadalovelace.netlify.app/](https://tributetoadalovelace.netlify.app/)
 
 ---
 
